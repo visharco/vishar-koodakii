@@ -154,6 +154,12 @@ i:before {
 
 }
 
+.txt-opti {
+  font-size: 12px!important;
+  direction: rtl;
+
+}
+
 .ul-our-project {
   text-align: right;
   line-height: 30px;
