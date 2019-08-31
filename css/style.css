@@ -147,9 +147,10 @@ i:before {
   font-weight: 500;
 }
 
-.l_title {
-  padding-bottom: 55px;
+.l_title { 
   text-align: right;
+  direction: rtl;
+
 
 }
 
@@ -1273,6 +1274,8 @@ i:before {
   font-weight: 700;
   text-align: right;
   padding-bottom: 20px;
+  direction: rtl;
+
 
 }
 
